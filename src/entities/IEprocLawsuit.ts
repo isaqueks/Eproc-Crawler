@@ -1,5 +1,5 @@
 import IEprocLawsuitEvent from "./IEprocLawsuitEvent";
-import { IEprocLaswuitParty } from "./ILawsuitParty";
+import IEprocLaswuitParty from "./IEprocLawsuitParty";
 
 export default interface IEprocLawsuit {
 
