@@ -1,5 +1,5 @@
 # Eproc-Crawler
-Client do Eproc-RS para NodeJS.     
+Client do Eproc - TJRS para NodeJS.     
 
 ### Instalação
 ```npm i https://github.com/isaqueks/Eproc-Crawler.git#release```   
